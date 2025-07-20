@@ -46,7 +46,7 @@ A React Native Expo mobile application that serves as your AI-powered travel com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/skkuhg/nomadsensei-travel-app.git
+   git clone https://github.com/skkuhg/Nomadsensei-Travel-App.git
    cd nomadsensei-travel-app
    ```
 
